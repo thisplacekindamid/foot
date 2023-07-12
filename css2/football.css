@@ -13,14 +13,74 @@ h2{
 }
 
 img[src*="degea.jpg"]{
-	height: 300px;
-	width: 475px;
-	margin-top: -46px;
+	margin-bottom: 80px;
 	padding-left: 20px;
 }
 
 img[src*="rice.jpg"]{
-	height: 300px;
-	width: 475px;
-	margin-left: 20px;
+	max-height: 245px;
+	width: 450px;
+	margin-left: 60px;
+	margin-bottom: 80px;
+}
+
+img[src*="vla.jpg"]{
+	height: 245px;
+	width: 450px;
+	margin-left: 60px;
+	margin-bottom: 80px;
+}
+
+#two{
+	width: 425px;
+	margin-left: 1070px;
+	margin-top: -80px;
+
+}
+
+#three{
+	font-size: 30px;
+	color: hotpink;
+
+}
+
+#three:hover{
+	color: #584af0;
+}
+
+#four{
+	width: 443px;
+	margin-top: -150px;
+	margin-left: 540px;
+	padding-top: 10px;
+}
+
+#five{
+	font-size: 30px;
+	color: hotpink;
+}
+
+#five:hover{
+	color: #584af0;
+}
+
+#seven{
+	width: 425px;
+	margin-top: -140px;
+	margin-left: 30px;
+
+}
+
+#six{
+	font-size: 30px;
+	color: hotpink;
+}
+
+#six:hover{
+	color: #584af0;
+}
+
+h3{
+	font-size: 50px;
+	margin-left: 540px;
 }
