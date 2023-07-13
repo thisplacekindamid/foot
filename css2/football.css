@@ -82,5 +82,52 @@ img[src*="vla.jpg"]{
 
 h3{
 	font-size: 50px;
-	margin-left: 540px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+#line{
+	margin-top: -50px;
+	width: 100px;
+}
+
+#saudii{
+	padding-left: 20px;
+	margin-top: 60px;
+	}
+
+	#stext{
+		font-size: 30px;
+		width: 290px;
+		padding-left: 30px;
+			}
+
+#sstext{
+	color: hotpink;
+}
+#sstext:hover{
+	color: #584af0;
+}
+
+#wood{
+	padding-left: 360px;
+}
+
+#green{
+	margin-top: -315px;
+}
+
+#ma{
+	color: hotpink;
+	font-size: 30px;
+
+}
+
+#ma:hover{
+	color: #584af0;
+}
+
+#son{
+width: 310px;
+padding-left: 365px;
 }
