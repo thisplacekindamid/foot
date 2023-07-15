@@ -110,7 +110,7 @@ h3{
 }
 
 #wood{
-	padding-left: 360px;
+	padding-left: 410px;
 }
 
 #green{
@@ -129,5 +129,176 @@ h3{
 
 #son{
 width: 310px;
-padding-left: 365px;
+padding-left: 415px;
+}
+
+#de{
+	margin-top: -318px;
+	padding-left: 800px;
+}
+
+
+
+#al{
+	padding-left: 799px;
+	width: 310px;
+}
+
+#i{
+	color: hotpink;
+	font-size: 30px;
+}
+
+#i:hover{
+	color: #584af0;
+}
+
+img[src*="death.jpg"]{
+	width: 300px;
+	height: 168px;
+}
+
+#death{
+	margin-top: -318px;
+	padding-left: 1183px;
+}
+
+#new{
+	width: 300px;
+	padding-left: 1189px;
+}
+
+#mexico{
+	font-size: 30px;
+	color: hotpink;
+}
+
+#mexico:hover{
+	color: #584af0;
+}
+
+#women{
+	padding-left: 20px;
+	padding-top: 40px;
+}
+
+#world{
+	width: 295px;
+	padding-left: 23px;
+}
+
+#cup{
+	font-size: 30px;
+	color: hotpink;
+}
+#cup:hover{
+	color: #584af0;
+}
+
+#america{
+	padding-left: 410px;
+	margin-top: -390px;
+}
+
+#chel{
+	width: 320px;
+	padding-left: 410px;
+
+}
+
+#sea{
+	font-size: 30px;
+	color: hotpink;
+}
+
+#sea:hover{
+	color: #584af0;
+}
+
+#tottenham{
+	padding-left: 800px;
+	margin-top: -280px;
+}
+
+#harry{
+	width: 300px;
+	padding-left: 805px;
+}
+
+#kane{
+	font-size: 30px;
+	color: hotpink;
+}
+
+#kane:hover{
+	color: #584af0;
+}
+
+#shea{
+	margin-top: -353px;
+	padding-left: 1183px;
+}
+
+#char{
+	width: 310px;
+	padding-left: 1190px;
+}
+
+#les{
+	color: hotpink;
+	font-size: 30px;
+}
+#les:hover{
+	color: #584af0;
+}
+
+
+
+	
+h4{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	
+}
+footer{
+	color: white;
+	text-align: center;
+	padding: 50px;
+	background-color:black ;
+	margin-top: 150px;
+	margin-bottom: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+
+}
+
+
+body{
+	animation: changeBg 20s infinite;
+	alternate linear;
+}
+
+@keyframes changeBg{
+	0%{
+		background: #49f577;
+	}
+	18%{
+		background: #36f7ca;
+	}
+	36%{
+		background: #5285fa;
+	}
+	54%{
+		background: #c03fd1;
+	}
+	72%{
+		background: #ed003b;
+	}
+	90%{
+		background: #ffdb38;
+	}
+	100%{
+		background: #49f577;
+	}
 }
